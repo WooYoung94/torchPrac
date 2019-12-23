@@ -1,4 +1,4 @@
-## horovod - pytorch
+## horovod pytorch run script
 
 horovodrun -np {num of gpu} python {youtfile.py}
 
