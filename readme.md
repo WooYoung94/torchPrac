@@ -15,3 +15,9 @@ Host {ip}:{port}
   User {svcapp}
   
   Port {port}
+
+### pip install list
+
+- tensorboardX
+- tqdm
+- horovod
