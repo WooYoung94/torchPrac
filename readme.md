@@ -12,5 +12,6 @@ Host {ip}:{port}
 
   HostName {ip}
   
-\t User {svcapp} \n
-\t Port {port}   \n
+  User {svcapp}
+  
+  Port {port}
