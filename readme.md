@@ -6,7 +6,7 @@ horovodrun -np {num of gpu} python {youtfile.py}
 
 watch -n {second} -d nvidia-smi
 
-## vscode-Remote SSH config 
+## vscode-Remote SSH config setting
 
 Host {ip}:{port}
 
