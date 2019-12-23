@@ -8,7 +8,7 @@ watch -n {second} -d nvidia-smi
 
 ## vscode-Remote SSH config 
 
-Host 10.10.1.32:31675
-    HostName 10.10.1.32  
-    User svcapp
-    Port 31675
+Host {ip}:{port} \n
+\t HostName {ip} \n  
+\t User {svcapp} \n
+\t Port {port}   \n
